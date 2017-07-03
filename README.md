@@ -1,6 +1,6 @@
 # Forecasting de Demanda usando Spark
 
-Este repositório contem os fontes realizados para o trabalho de Big Data 2017/1, ministrada por Assis Bento. DEL, Escola Politécnica, UFRJ.
+Este repositório contem os fontes realizados para o trabalho de Big Data 2017/1, ministrada por Alexandre de Assis. DEL, Escola Politécnica, UFRJ.
 
 ## Visão Geral
 A solução contempla 3 componentes:
