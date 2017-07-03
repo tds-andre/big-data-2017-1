@@ -1,12 +1,13 @@
 # Forecasting de Demanda usando Spark
 
-Este repositório contem os fontes realizado para o trabalho de Big Data 2017/1, ministrada por Assis Bento. DEL, Escola Politécnica, UFRJ.
+Este repositório contem os fontes realizados para o trabalho de Big Data 2017/1, ministrada por Assis Bento. DEL, Escola Politécnica, UFRJ.
 
 ## Visão Geral
 A solução contempla 3 componentes:
-    - Um conjunto de script em Scala/Spark para fazer o tratamento de dados, treinar um modelo ARIMA(2,0,2) e carregar os dados no CouchDB
-    - Uma view do CouchDB, necessária para WebApp
-    - Um WebApp, que permite explorar os resultados.
+
+  - Um conjunto de script em Scala/Spark para fazer o tratamento de dados, treinar um modelo ARIMA(2,0,2) e carregar os dados no CouchDB
+  - Uma view do CouchDB, necessária para WebApp
+  - Um WebApp, que permite explorar os resultados.
     
 ## Conteúdo
 ### WebApp
